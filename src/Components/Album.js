@@ -45,7 +45,7 @@ function Copyright() {
 const cards = [{
   heading: "Air Dryer",
   content:"A system or piece of equipment called an air drier which is used to get rid of moisture from the air.",
-  image:"./com.steps.io/air-dryer.webp"
+  image:"/air-dryer.webp"
 },
 {
 heading:"AODD Pump",
