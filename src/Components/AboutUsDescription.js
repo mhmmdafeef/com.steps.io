@@ -64,7 +64,7 @@ function AboutUsDescription() {
                     
                      
                     }}
-                   image="./com.steps.io/technical-support-flat-icon-vector-13931467.jpg"
+                   image="./technical-support-flat-icon-vector-13931467.jpg"
                
   
                   />

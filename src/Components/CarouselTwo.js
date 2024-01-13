@@ -57,7 +57,7 @@ const item =
   {
     text :'Engineered solutions that drive industries forward',
     subtext: 'Specialized in Air Compressors, Heat Exchangers, AODD Pump ,Lobe Pumps, Metering Pump, Specialization in Energy saving',
-    imgSrc:'./com.steps.io/banner-img-01.jpeg',
+    imgSrc:'./banner-img-01.jpeg',
   }
   
 ;
