@@ -50,16 +50,16 @@ const cards = [{
 {
 heading:"AODD Pump",
 content:"Air-Operated-Double-Diaphragm pump can effectively handle different types of solids along with water",
-image:"./com.steps.io/aodd-metalic-pump.webp"
+image:"./aodd-metalic-pump.webp"
 },
 {
 heading:"Metering Pump",
 content:"Get an accurate flow rate of the fluid using a metering pump irrespective of the motor speed",
-image:"./com.steps.io/metering-pump.webp"
+image:"./metering-pump.webp"
 },{
 heading:"Rotary Lobe Pump",
 content:"These pumps work on the principle of synchronizing the opposite rotation of two (or more) lobes.",
-image:"./com.steps.io/idex-pump.webp"
+image:"./idex-pump.webp"
 }
 ];
 
@@ -113,7 +113,7 @@ export default function Album() {
     <Box sx={{ bgcolor: '#204183', p: 6 }} component="footer">
           
         <Typography variant="h6" align="center" gutterBottom>
-          <Image src='./com.steps.io/logo1.png' style={{width:'250px',height:'36px',marginBottom:'8px'}}/>
+          <Image src='./logo1.png' style={{width:'250px',height:'36px',marginBottom:'8px'}}/>
         </Typography>
         <Typography
           variant="subtitle1"

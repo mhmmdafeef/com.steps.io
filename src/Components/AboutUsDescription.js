@@ -41,7 +41,7 @@ function AboutUsDescription() {
                     
                      
                     }}
-                   image="./com.steps.io/techexpertise.jpg"
+                   image="./techexpertise.jpg"
                
   
                   />

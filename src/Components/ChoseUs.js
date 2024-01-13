@@ -33,7 +33,7 @@ Our product range has various options to choose from as per the industry require
     </Typography>
         </Grid>
         <Grid item xs={12} sm={6}>
-          <Image src='./com.steps.io/banner-img.webp'></Image>
+          <Image src='./banner-img.webp'></Image>
         </Grid>
         </Grid>
      

@@ -78,7 +78,7 @@ function ResponsiveAppBar() {
       <Container maxWidth="xl">
       
         <Toolbar disableGutters style={styles.root}>
-        <img src='./com.steps.io/logo1.png' style={styles.image} />
+        <img src='./logo1.png' style={styles.image} />
           
 
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none',justifyContent:'center',alignItems:'flex-end' } }}>
